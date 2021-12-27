@@ -1,0 +1,7 @@
+Squirtle water 50 50 60 40
+Charmander fire 50 60 40 50 
+Clafairy normal 60 40 40 40
+Pikachu electric 45 40 50 30
+Weedle bug 40 30 30 50
+Beedrill bug 40 35 35 60
+Lickingtongue normal 50 40 50 44
